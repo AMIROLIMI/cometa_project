@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #2e50e6;
+    background-color: #87CEEB;
 }
 
 /*для шапки*/
 header {
-    background-color: #87CEEB;
+    background-color: #2e50e6;
     color: white;
     padding: 20px;
     text-align: center;
